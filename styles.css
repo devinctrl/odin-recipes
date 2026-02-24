@@ -1,0 +1,46 @@
+* {
+  margin: 0px;
+  background-color: dodgerblue;
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  padding: 30px;
+}
+
+.recipe-list a {
+  font-weight: bold;
+}
+
+.recipe-list a:hover {
+  color: blueviolet;
+}
+
+p,
+h2 {
+  margin: 10px;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+img {
+  border: white solid 10px;
+  display: block;
+  margin: auto;
+}
+
+.home-button-container {
+  padding: 10px;
+}
+
+ol li {
+  padding: 5px;
+}
